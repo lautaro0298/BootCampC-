@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "CCbcjN1bO46CKSeH5cbSFeSfVmNlYL+KDgmjPmB5rz4=",
+  "Source": "AppStore",
+  "BasePath": "_content/AppStore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AppStore\\wwwroot",
+      "Source": "AppStore",
+      "ContentRoot": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\css\\style.css",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\favicon.ico",
+      "SourceId": "AppStore",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\",
+      "BasePath": "_content/AppStore",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}

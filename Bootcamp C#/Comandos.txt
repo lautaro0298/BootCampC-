@@ -1,0 +1,15 @@
+Para crear un nuevo solucion: dotnet new sln
+crear un nuevo proyecto se utiliza: dotnet new [tipe project]
+y para agregar una proyecto a una solucion se utiliza: dotnet sln add ejemplo.csproj
+para agregar un nuevo paquete en un proyecto se va a la carpeta donde se encuente el proyecto y se utiliza
+dotnet add package [paquete] --version="[vercion]"
+paquete ejemplo :Microsoft.EntityFramework
+version=6.0.0
+dotnet add package Microsoft.EntityFrameworkCore --version="6.0.0"
+dotnet add package Microsoft.EntityFrameworkCore.Tools 
+///para Usar sql Server (somee.com)
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+///para usar sqlite (helionet.org)
+dotnet add package Microsoft.EntityFrameworkCore.Sqlite
+/// para pre cargar usuarios tokes y seguridad
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore
