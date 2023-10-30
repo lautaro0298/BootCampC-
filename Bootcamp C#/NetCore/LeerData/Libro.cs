@@ -5,6 +5,7 @@ namespace LeerData{
         public string? Descripcion{get;set;}
         public System.DateTime FechaPublicacion {get;set;}
         public Precio PrecioPromocion{get;set;}
-        
+        public ICollection<Comentario> comentarioLista{get;set;}
+        public ICollection<LibroAutor> AutorLink{get;set;}
     }
 }

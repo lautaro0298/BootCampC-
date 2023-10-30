@@ -1,11 +1,55 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\css\\style.css",
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\Upload\\13ff08fb-79ad-4eec-982c-1788dafdc974.jpg",
+      "PackagePath": "staticwebassets\\Upload\\13ff08fb-79ad-4eec-982c-1788dafdc974.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\Upload\\1cbf39e1-c073-4c66-8d26-050861856f93.jpg",
+      "PackagePath": "staticwebassets\\Upload\\1cbf39e1-c073-4c66-8d26-050861856f93.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\Upload\\catedral.png",
+      "PackagePath": "staticwebassets\\Upload\\catedral.png"
+    },
+    {
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\Upload\\cien.jpg",
+      "PackagePath": "staticwebassets\\Upload\\cien.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\Upload\\congo.jpg",
+      "PackagePath": "staticwebassets\\Upload\\congo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\Upload\\guerra.jpg",
+      "PackagePath": "staticwebassets\\Upload\\guerra.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\Upload\\harry.jpg",
+      "PackagePath": "staticwebassets\\Upload\\harry.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\Upload\\lazarillo.jpg",
+      "PackagePath": "staticwebassets\\Upload\\lazarillo.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\Upload\\quijote.jpg",
+      "PackagePath": "staticwebassets\\Upload\\quijote.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\Upload\\viajera.jpg",
+      "PackagePath": "staticwebassets\\Upload\\viajera.jpg"
+    },
+    {
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\css\\forms.css",
+      "PackagePath": "staticwebassets\\css\\forms.css"
+    },
+    {
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\favicon.ico",
+      "Id": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {

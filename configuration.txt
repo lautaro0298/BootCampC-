@@ -1,6 +1,0 @@
-para generar config de debug >generate assets
-en la extencion C# en settings.json
-
- "omnisharp.monoPath": "",
-    "omnisharp.sdkPath": "C:\\Program Files\\dotnet\\sdk",
-    "omnisharp.path": "latest"

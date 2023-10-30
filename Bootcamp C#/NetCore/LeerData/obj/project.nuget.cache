@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nw1kSJn5HOD3DNi/ncQgx5sHz/0JS/H3rGa56hxOJXfo4pvbZvmWUrYYwQsO8278/vPoT+5JZw0XqAyUggL1Ug==",
+  "dgSpecHash": "0gE/znS12hpomJ4Uh/NCdknJl8b1dqeOIRLbUB2Mve3PKIhr5FfpG6zAjDVOqYBNWnCLTuu82IWxC/QfhQS04Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\NetCore\\LeerData\\LeerData.csproj",
+  "projectFilePath": "E:\\Bootcamp C#\\NetCore\\LeerData\\LeerData.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lautaro\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Lautaro\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

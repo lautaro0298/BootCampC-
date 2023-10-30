@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj": {}
+    "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj": {
+    "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj",
+        "projectUniqueName": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj",
         "projectName": "AppStore",
-        "projectPath": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj",
+        "projectPath": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj",
         "packagesPath": "C:\\Users\\Lautaro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\aspnet\\src\\AppStore\\obj\\",
+        "outputPath": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lautaro\\AppData\\Roaming\\NuGet\\NuGet.Config",

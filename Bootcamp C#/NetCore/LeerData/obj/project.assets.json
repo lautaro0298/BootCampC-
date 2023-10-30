@@ -2623,11 +2623,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\NetCore\\LeerData\\LeerData.csproj",
+      "projectUniqueName": "E:\\Bootcamp C#\\NetCore\\LeerData\\LeerData.csproj",
       "projectName": "LeerData",
-      "projectPath": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\NetCore\\LeerData\\LeerData.csproj",
+      "projectPath": "E:\\Bootcamp C#\\NetCore\\LeerData\\LeerData.csproj",
       "packagesPath": "C:\\Users\\Lautaro\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lautaro\\Desktop\\Bootcamp C#\\NetCore\\LeerData\\obj\\",
+      "outputPath": "E:\\Bootcamp C#\\NetCore\\LeerData\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lautaro\\AppData\\Roaming\\NuGet\\NuGet.Config",
