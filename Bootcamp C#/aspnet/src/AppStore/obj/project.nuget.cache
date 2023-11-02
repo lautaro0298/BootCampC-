@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zSCy0lyiCA1Oh9korS8eJTP/g+3QKMoLsUN/Z4X3fiqfdcHs3TI1pQHmZGLUV+w9/dZWgIE5Y6BpWtAQGTmnJw==",
+  "dgSpecHash": "FSS3oYlF8hLao2xUc5ISKi1rupjyJMSaA3lSwoQEX255s03MmWIR+cWiSjciM/rJnJaPj2Nj9IPaD+g8HCWSpA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj",
+  "projectFilePath": "C:\\Users\\Lautaro\\Documents\\GitHub\\BootCampC-\\Bootcamp C#\\aspnet\\src\\AppStore\\AppStore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lautaro\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Lautaro\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.13\\microsoft.aspnetcore.cryptography.internal.7.0.13.nupkg.sha512",

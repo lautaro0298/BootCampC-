@@ -2,12 +2,14 @@
 using AppStore.Models.Domain;
 using AppStore.Repositories.Abstract;
 using AppStore.Repositories.Implementation;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 
 namespace AppStore.Controllers
 {
+    [Authorize]
     public class LibroController : Controller
     {
         private readonly ILibroService libroService;
